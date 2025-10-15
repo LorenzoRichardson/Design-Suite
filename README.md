@@ -1,6 +1,6 @@
-# My Canva Clone v2
+# My Canva Clone
 
-**What’s new in v2**
+**What’s being added**
 - Local image uploads (no server storage)
 - Sidebar sliders for opacity, brightness, contrast
 - Color pickers for text and shapes
